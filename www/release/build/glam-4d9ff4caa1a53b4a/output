@@ -1,0 +1,2 @@
+cargo:rustc-cfg=vec3f32
+cargo:rustc-cfg=vec4f32
