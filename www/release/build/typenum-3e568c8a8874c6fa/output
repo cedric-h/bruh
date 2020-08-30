@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/ced/whisslin/target/wasm32-unknown-unknown/release/build/typenum-3e568c8a8874c6fa/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/home/ced/whisslin/target/wasm32-unknown-unknown/release/build/typenum-3e568c8a8874c6fa/out/op.rs
